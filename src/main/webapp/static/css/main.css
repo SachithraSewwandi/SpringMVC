@@ -1,0 +1,24 @@
+.btn-input {
+    display: block;
+}
+
+.btn-input .btn.form-control {
+    text-align: left;
+}
+
+.enhanced-datepicker {
+
+    position: relative;
+}
+    .btn {
+        margin-right:5px;
+    }
+    input {
+        /*         position:absolute;
+                top:0;
+                left:-9999px;
+                 */
+    }
+
+
+
